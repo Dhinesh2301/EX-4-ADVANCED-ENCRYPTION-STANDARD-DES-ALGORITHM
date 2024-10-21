@@ -65,4 +65,4 @@ return 0;
 ![image](https://github.com/user-attachments/assets/86968f3b-5df3-4b49-b9d9-20ae07851860)
 
 ## RESULT: 
-Hence, for the given input text and key the DES algorithm is successfully simulated.
+Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully
